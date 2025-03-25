@@ -31,7 +31,7 @@ export default function QuickVotePoll() {
   };
 
   return (
-    <div className="flex items-center justify-center min-h-screen bg-gray-100 p-4">
+    <div className="flex items-center justify-center min-h-screen bg-gradient-to-b from-[#EAF0FF] to-[#DCE7FF] p-4">
       <Toaster position="top-center" />
       <Card className="w-full max-w-md mx-auto shadow-lg">
         <CardHeader>
